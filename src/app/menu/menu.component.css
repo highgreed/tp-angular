@@ -1,0 +1,12 @@
+div#menu {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 15%;
+    height: 400px;
+  }
+.color {
+    background-color: black;
+    color: white;
+}
+  
